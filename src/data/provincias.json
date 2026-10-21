@@ -1,0 +1,316 @@
+{
+  "provincias": [
+    {
+      "nombre": "Madrid",
+      "comunidad": "Comunidad de Madrid",
+      "escanos": 38,
+      "votos": { "PP": 43.2, "Vox": 16.8, "PSOE": 22.1, "Sumar": 11.5, "Otros": 6.4 }
+    },
+    {
+      "nombre": "Barcelona",
+      "comunidad": "Cataluña",
+      "escanos": 32,
+      "votos": { "PP": 17.5, "Vox": 8.2, "PSOE": 8.4, "Sumar": 5.9, "Junts": 18.1, "ERC": 10.3, "PSC": 22.8, "CUP": 3.1, "Otros": 5.7 }
+    },
+    {
+      "nombre": "Valencia",
+      "comunidad": "Comunitat Valenciana",
+      "escanos": 16,
+      "votos": { "PP": 34.2, "Vox": 14.1, "PSOE": 28.3, "Sumar": 11.2, "Compromís": 8.1, "Otros": 4.1 }
+    },
+    {
+      "nombre": "Sevilla",
+      "comunidad": "Andalucía",
+      "escanos": 12,
+      "votos": { "PP": 36.4, "Vox": 13.8, "PSOE": 34.2, "Sumar": 10.5, "Otros": 5.1 }
+    },
+    {
+      "nombre": "Alicante",
+      "comunidad": "Comunitat Valenciana",
+      "escanos": 12,
+      "votos": { "PP": 42.3, "Vox": 17.9, "PSOE": 27.8, "Sumar": 7.8, "Compromís": 3.2, "Otros": 1.0 }
+    },
+    {
+      "nombre": "Zaragoza",
+      "comunidad": "Aragón",
+      "escanos": 7,
+      "votos": { "PP": 40.1, "Vox": 15.6, "PSOE": 27.3, "Sumar": 10.2, "CHA": 3.2, "Otros": 3.6 }
+    },
+    {
+      "nombre": "Málaga",
+      "comunidad": "Andalucía",
+      "escanos": 11,
+      "votos": { "PP": 44.2, "Vox": 15.3, "PSOE": 27.1, "Sumar": 9.1, "Otros": 4.3 }
+    },
+    {
+      "nombre": "Murcia",
+      "comunidad": "Región de Murcia",
+      "escanos": 10,
+      "votos": { "PP": 46.8, "Vox": 19.7, "PSOE": 22.6, "Sumar": 7.4, "Otros": 3.5 }
+    },
+    {
+      "nombre": "Cádiz",
+      "comunidad": "Andalucía",
+      "escanos": 8,
+      "votos": { "PP": 34.8, "Vox": 15.9, "PSOE": 34.6, "Sumar": 11.2, "Otros": 3.5 }
+    },
+    {
+      "nombre": "Vizcaya",
+      "comunidad": "País Vasco",
+      "escanos": 8,
+      "votos": { "PP": 16.2, "Vox": 3.8, "PSOE": 7.2, "Sumar": 4.1, "PNV": 29.4, "EH Bildu": 24.8, "Elkarrekin": 8.3, "Otros": 6.2 }
+    },
+    {
+      "nombre": "Tenerife",
+      "comunidad": "Canarias",
+      "escanos": 7,
+      "votos": { "PP": 32.8, "Vox": 11.4, "PSOE": 32.1, "Sumar": 9.8, "CC": 10.6, "Otros": 3.3 }
+    },
+    {
+      "nombre": "Las Palmas",
+      "comunidad": "Canarias",
+      "escanos": 8,
+      "votos": { "PP": 31.7, "Vox": 11.8, "PSOE": 33.4, "Sumar": 9.6, "CC": 10.2, "Otros": 3.3 }
+    },
+    {
+      "nombre": "Córdoba",
+      "comunidad": "Andalucía",
+      "escanos": 6,
+      "votos": { "PP": 38.3, "Vox": 14.2, "PSOE": 33.1, "Sumar": 10.1, "Otros": 4.3 }
+    },
+    {
+      "nombre": "A Coruña",
+      "comunidad": "Galicia",
+      "escanos": 8,
+      "votos": { "PP": 40.2, "Vox": 8.4, "PSOE": 27.6, "Sumar": 9.8, "BNG": 10.8, "Otros": 3.2 }
+    },
+    {
+      "nombre": "Asturias",
+      "comunidad": "Asturias",
+      "escanos": 8,
+      "votos": { "PP": 36.8, "Vox": 9.4, "PSOE": 32.2, "Sumar": 12.8, "FORO": 5.6, "Otros": 3.2 }
+    },
+    {
+      "nombre": "Valladolid",
+      "comunidad": "Castilla y León",
+      "escanos": 5,
+      "votos": { "PP": 47.2, "Vox": 13.8, "PSOE": 25.4, "Sumar": 9.8, "Otros": 3.8 }
+    },
+    {
+      "nombre": "Granada",
+      "comunidad": "Andalucía",
+      "escanos": 7,
+      "votos": { "PP": 41.6, "Vox": 14.8, "PSOE": 29.4, "Sumar": 10.2, "Otros": 4.0 }
+    },
+    {
+      "nombre": "Girona",
+      "comunidad": "Cataluña",
+      "escanos": 5,
+      "votos": { "PP": 16.8, "Vox": 7.4, "PSOE": 6.1, "Sumar": 4.2, "Junts": 28.6, "ERC": 14.2, "PSC": 15.8, "CUP": 4.6, "Otros": 2.3 }
+    },
+    {
+      "nombre": "Guipúzcoa",
+      "comunidad": "País Vasco",
+      "escanos": 5,
+      "votos": { "PP": 12.4, "Vox": 2.8, "PSOE": 6.4, "Sumar": 3.6, "PNV": 26.8, "EH Bildu": 32.4, "Elkarrekin": 9.8, "Otros": 5.8 }
+    },
+    {
+      "nombre": "Tarragona",
+      "comunidad": "Cataluña",
+      "escanos": 6,
+      "votos": { "PP": 19.4, "Vox": 9.8, "PSOE": 9.2, "Sumar": 5.8, "Junts": 20.4, "ERC": 12.6, "PSC": 18.4, "CUP": 2.8, "Otros": 1.6 }
+    },
+    {
+      "nombre": "Lleida",
+      "comunidad": "Cataluña",
+      "escanos": 4,
+      "votos": { "PP": 18.2, "Vox": 8.6, "PSOE": 7.8, "Sumar": 4.6, "Junts": 25.8, "ERC": 14.4, "PSC": 14.8, "CUP": 3.6, "Otros": 2.2 }
+    },
+    {
+      "nombre": "Navarra",
+      "comunidad": "Navarra",
+      "escanos": 5,
+      "votos": { "PP": 26.4, "Vox": 9.2, "PSOE": 14.8, "Sumar": 6.8, "UPN": 12.6, "Geroa Bai": 8.4, "EH Bildu": 16.4, "Otros": 5.4 }
+    },
+    {
+      "nombre": "Pontevedra",
+      "comunidad": "Galicia",
+      "escanos": 7,
+      "votos": { "PP": 42.4, "Vox": 7.8, "PSOE": 27.8, "Sumar": 9.6, "BNG": 9.6, "Otros": 2.8 }
+    },
+    {
+      "nombre": "Toledo",
+      "comunidad": "Castilla-La Mancha",
+      "escanos": 6,
+      "votos": { "PP": 47.6, "Vox": 15.8, "PSOE": 28.4, "Sumar": 6.4, "Otros": 1.8 }
+    },
+    {
+      "nombre": "Badajoz",
+      "comunidad": "Extremadura",
+      "escanos": 6,
+      "votos": { "PP": 42.8, "Vox": 12.4, "PSOE": 35.4, "Sumar": 6.8, "Otros": 2.6 }
+    },
+    {
+      "nombre": "Ciudad Real",
+      "comunidad": "Castilla-La Mancha",
+      "escanos": 5,
+      "votos": { "PP": 48.4, "Vox": 15.6, "PSOE": 27.8, "Sumar": 5.8, "Otros": 2.4 }
+    },
+    {
+      "nombre": "Álava",
+      "comunidad": "País Vasco",
+      "escanos": 4,
+      "votos": { "PP": 22.4, "Vox": 5.6, "PSOE": 12.8, "Sumar": 5.6, "PNV": 28.4, "EH Bildu": 18.6, "Elkarrekin": 5.2, "Otros": 1.4 }
+    },
+    {
+      "nombre": "Albacete",
+      "comunidad": "Castilla-La Mancha",
+      "escanos": 4,
+      "votos": { "PP": 47.8, "Vox": 16.2, "PSOE": 27.4, "Sumar": 5.8, "Otros": 2.8 }
+    },
+    {
+      "nombre": "Almería",
+      "comunidad": "Andalucía",
+      "escanos": 6,
+      "votos": { "PP": 49.8, "Vox": 18.6, "PSOE": 22.4, "Sumar": 6.8, "Otros": 2.4 }
+    },
+    {
+      "nombre": "Ávila",
+      "comunidad": "Castilla y León",
+      "escanos": 3,
+      "votos": { "PP": 54.8, "Vox": 15.4, "PSOE": 22.6, "Sumar": 5.2, "Otros": 2.0 }
+    },
+    {
+      "nombre": "Burgos",
+      "comunidad": "Castilla y León",
+      "escanos": 4,
+      "votos": { "PP": 50.4, "Vox": 13.6, "PSOE": 26.4, "Sumar": 7.2, "Otros": 2.4 }
+    },
+    {
+      "nombre": "Cáceres",
+      "comunidad": "Extremadura",
+      "escanos": 4,
+      "votos": { "PP": 44.8, "Vox": 11.8, "PSOE": 34.8, "Sumar": 5.8, "Otros": 2.8 }
+    },
+    {
+      "nombre": "Cantabria",
+      "comunidad": "Cantabria",
+      "escanos": 5,
+      "votos": { "PP": 38.4, "Vox": 10.8, "PSOE": 28.6, "Sumar": 9.4, "PRC": 9.8, "Otros": 3.0 }
+    },
+    {
+      "nombre": "Castellón",
+      "comunidad": "Comunitat Valenciana",
+      "escanos": 5,
+      "votos": { "PP": 43.6, "Vox": 16.4, "PSOE": 27.8, "Sumar": 6.8, "Compromís": 4.2, "Otros": 1.2 }
+    },
+    {
+      "nombre": "Cuenca",
+      "comunidad": "Castilla-La Mancha",
+      "escanos": 3,
+      "votos": { "PP": 51.2, "Vox": 14.8, "PSOE": 26.4, "Sumar": 5.4, "Otros": 2.2 }
+    },
+    {
+      "nombre": "Guadalajara",
+      "comunidad": "Castilla-La Mancha",
+      "escanos": 3,
+      "votos": { "PP": 52.4, "Vox": 15.2, "PSOE": 24.8, "Sumar": 5.8, "Otros": 1.8 }
+    },
+    {
+      "nombre": "Huelva",
+      "comunidad": "Andalucía",
+      "escanos": 5,
+      "votos": { "PP": 40.4, "Vox": 14.8, "PSOE": 34.2, "Sumar": 8.4, "Otros": 2.2 }
+    },
+    {
+      "nombre": "Huesca",
+      "comunidad": "Aragón",
+      "escanos": 3,
+      "votos": { "PP": 42.8, "Vox": 13.4, "PSOE": 30.6, "Sumar": 8.8, "CHA": 2.8, "Otros": 1.6 }
+    },
+    {
+      "nombre": "Jaén",
+      "comunidad": "Andalucía",
+      "escanos": 5,
+      "votos": { "PP": 39.8, "Vox": 14.2, "PSOE": 35.8, "Sumar": 7.4, "Otros": 2.8 }
+    },
+    {
+      "nombre": "La Rioja",
+      "comunidad": "La Rioja",
+      "escanos": 4,
+      "votos": { "PP": 44.8, "Vox": 13.6, "PSOE": 29.8, "Sumar": 8.4, "Otros": 3.4 }
+    },
+    {
+      "nombre": "León",
+      "comunidad": "Castilla y León",
+      "escanos": 4,
+      "votos": { "PP": 48.4, "Vox": 12.8, "PSOE": 27.6, "Sumar": 7.2, "UPL": 2.6, "Otros": 1.4 }
+    },
+    {
+      "nombre": "Lugo",
+      "comunidad": "Galicia",
+      "escanos": 4,
+      "votos": { "PP": 46.8, "Vox": 6.8, "PSOE": 27.6, "Sumar": 7.8, "BNG": 9.2, "Otros": 1.8 }
+    },
+    {
+      "nombre": "Ourense",
+      "comunidad": "Galicia",
+      "escanos": 3,
+      "votos": { "PP": 48.4, "Vox": 7.2, "PSOE": 27.8, "Sumar": 7.4, "BNG": 7.2, "Otros": 2.0 }
+    },
+    {
+      "nombre": "Palencia",
+      "comunidad": "Castilla y León",
+      "escanos": 3,
+      "votos": { "PP": 52.6, "Vox": 12.8, "PSOE": 26.8, "Sumar": 5.6, "Otros": 2.2 }
+    },
+    {
+      "nombre": "Salamanca",
+      "comunidad": "Castilla y León",
+      "escanos": 4,
+      "votos": { "PP": 53.4, "Vox": 14.2, "PSOE": 24.6, "Sumar": 5.4, "Otros": 2.4 }
+    },
+    {
+      "nombre": "Segovia",
+      "comunidad": "Castilla y León",
+      "escanos": 3,
+      "votos": { "PP": 52.8, "Vox": 14.4, "PSOE": 25.6, "Sumar": 5.2, "Otros": 2.0 }
+    },
+    {
+      "nombre": "Soria",
+      "comunidad": "Castilla y León",
+      "escanos": 2,
+      "votos": { "PP": 54.2, "Vox": 13.8, "PSOE": 25.8, "Sumar": 4.8, "Otros": 1.4 }
+    },
+    {
+      "nombre": "Teruel",
+      "comunidad": "Aragón",
+      "escanos": 3,
+      "votos": { "PP": 44.6, "Vox": 13.8, "PSOE": 29.4, "Sumar": 7.4, "TE": 3.4, "Otros": 1.4 }
+    },
+    {
+      "nombre": "Zamora",
+      "comunidad": "Castilla y León",
+      "escanos": 3,
+      "votos": { "PP": 51.4, "Vox": 11.6, "PSOE": 28.8, "Sumar": 5.4, "Otros": 2.8 }
+    },
+    {
+      "nombre": "Islas Baleares",
+      "comunidad": "Islas Baleares",
+      "escanos": 8,
+      "votos": { "PP": 38.4, "Vox": 14.8, "PSOE": 26.8, "Sumar": 11.4, "MÉS": 5.4, "Otros": 3.2 }
+    },
+    {
+      "nombre": "Ceuta",
+      "comunidad": "Ceuta",
+      "escanos": 1,
+      "votos": { "PP": 44.8, "Vox": 18.6, "PSOE": 26.8, "Sumar": 5.4, "Otros": 4.4 }
+    },
+    {
+      "nombre": "Melilla",
+      "comunidad": "Melilla",
+      "escanos": 1,
+      "votos": { "PP": 38.4, "Vox": 14.2, "PSOE": 28.6, "Sumar": 6.4, "CPM": 10.8, "Otros": 1.6 }
+    }
+  ]
+}
